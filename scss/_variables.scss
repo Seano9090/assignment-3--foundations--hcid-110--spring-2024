@@ -1,0 +1,10 @@
+//background colors
+$background0-color--primary: gray;
+//grid math
+$grid-column: 60px;
+$grid-gutter: 20px;
+$grid-unit: $grid-column + $grid-gutter;
+
+//widths
+$width-content: (5* $grid-unit);
+$width--body: (12 * $grid-unit);
